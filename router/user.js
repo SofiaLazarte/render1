@@ -6,4 +6,5 @@ router.get("/", userController.Hello);
 
 router.post("/", userController.userCreate);
 
+// Exportar el enrutador
 module.exports = router;

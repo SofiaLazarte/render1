@@ -10,4 +10,3 @@ const Hello = (req, res) => {
     Hello,
     userCreate,
   };
-  
